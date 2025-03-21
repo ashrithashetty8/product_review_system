@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Wireless Bluetooth Earbuds",
+        "description": "High-quality wireless earbuds with noise cancellation and 12-hour battery life.",
+        "amount": 59.99
+    },
+    {
+        "name": "Smartwatch Fitness Tracker",
+        "description": "A sleek smartwatch with heart rate monitoring, step tracking, and sleep analysis.",
+        "amount": 129.99
+    },
+    {
+        "name": "Portable Laptop Stand",
+        "description": "Adjustable and lightweight laptop stand for ergonomic workspace setup.",
+        "amount": 29.99
+    },
+    {
+        "name": "Wireless Charging Pad",
+        "description": "Fast-charging wireless pad compatible with Qi-enabled devices.",
+        "amount": 19.99
+    },
+    {
+        "name": "Noise-Cancelling Headphones",
+        "description": "Over-ear headphones with active noise cancellation and 30-hour battery life.",
+        "amount": 199.99
+    },
+    {
+        "name": "USB-C Hub Adapter",
+        "description": "6-in-1 USB-C hub with HDMI, USB-A, and SD card slots for laptops.",
+        "amount": 39.99
+    },
+    {
+        "name": "Electric Kettle",
+        "description": "Stainless steel electric kettle with auto-shutoff and boil-dry protection.",
+        "amount": 49.99
+    },
+    {
+        "name": "Gaming Mouse",
+        "description": "High-precision gaming mouse with customizable RGB lighting.",
+        "amount": 69.99
+    },
+    {
+        "name": "Yoga Mat",
+        "description": "Eco-friendly yoga mat with non-slip surface and carrying strap.",
+        "amount": 34.99
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with 20-hour battery life and waterproof design.",
+        "amount": 79.99
+    }
+]
