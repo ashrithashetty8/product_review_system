@@ -1,8 +1,8 @@
-# 🚀 RESTful API for Products and Reviews  
+# RESTful API for Products and Reviews  
 
 A RESTful API built using **Node.js, Express, SQLite, and Sequelize** to manage products and their reviews.  
 
-## 📌 Technologies Used  
+## Technologies Used  
 - **Node.js** - Server-side runtime  
 - **Express.js** - Web framework for building APIs  
 - **SQLite** - Lightweight database  
@@ -12,7 +12,7 @@ A RESTful API built using **Node.js, Express, SQLite, and Sequelize** to manage 
 
 ---
 
-## 💒 Project Structure  
+## Project Structure  
 ```
 -- postman-collection  # API Endpoints Collection (for testing)
 src\
@@ -131,15 +131,3 @@ Defines the API endpoints and links them to controllers. No business logic shoul
 
 ## Running Tests  
 You can use **Postman** to test the API endpoints. Import the `postman-collection` file into Postman for quick testing.
-
----
-
-## Contribution Guidelines  
-Feel free to contribute to this project:  
-1. Fork the repository  
-2. Create a new feature branch (`git checkout -b feature-branch`)  
-3. Commit your changes (`git commit -m "Add new feature"`)  
-4. Push the branch (`git push origin feature-branch`)  
-5. Open a Pull Request 🚀  
-
----
